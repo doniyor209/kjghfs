@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-top: 63px;
+}
+
+body {
+  background: linear-gradient(154.48deg, #2A5AF7 4.61%, #AB229B 78.86%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.container h1 {
+  color: white;
+  font-size: 50px;
+}
+
+
+
